@@ -18,8 +18,7 @@ I'm a technology enthusiast and cybersecurity professional based in Melbourne, A
 - **Languages:** Swift, Python, JavaScript, Java, SQL
 - **Frameworks:** SwiftUI, UIKit, React, Node.js
 - **Cybersecurity:** Network Security, Penetration Testing, Security Auditing, Risk Management
-- **Tools:** Xcode, Git, Docker, Wireshark, Burp Suite
-- **Cloud:** AWS, Azure
+- **Tools:** Xcode, Git, Docker, Wireshark, Burp Suite, AWS
 - **Databases:** MySQL, MongoDB, Firebase
 
 ## 🔭 Recent Projects
@@ -30,14 +29,9 @@ A sleek, modern weather application built with SwiftUI that provides real-time w
 ![Weather App](https://github.com/domqi11/WeatherApp/raw/main/MyWeather/Assets.xcassets/screenshot/WEATHER-APP.png)
 
 ## 🌱 I'm currently learning ...
-- Advanced iOS Development with Swift and SwiftUI
+- Using PortSwigger and Burpe Suite to learn more of peneration testing
 - Cloud Security Architecture
 - DevSecOps Practices
-
-## 👯 I'm looking to collaborate on ...
-- Open source cybersecurity tools
-- iOS app development projects
-- Innovative tech solutions
 
 ## 📫 How to reach me: ...
 - 📱 Phone: +61 428 796 872
