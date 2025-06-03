@@ -6,40 +6,86 @@
 
 ## 💻 About Me
 
-I'm a technology enthusiast and cybersecurity professional based in Melbourne, Australia. With a background in Information Technology and a specialization in Cybersecurity from Monash University, I'm passionate about creating secure, innovative solutions.
+I'm a cybersecurity professional and technology enthusiast based in Melbourne, Australia. With a background in Information Technology and a specialization in Cybersecurity from Monash University, I'm passionate about ethical hacking, secure software development, and innovative tech solutions.
 
 - 🎓 Bachelor of Information Technology (Cybersecurity) graduate from Monash University
-- 🔐 Focus on cybersecurity, secure software development, and innovative tech solutions
-- 💼 Professional experience as a Senior Sales Consultant at Optus
-- 🚀 Always learning and exploring new technologies
+- 🔐 Specialised in penetration testing, vulnerability assessment, and cybersecurity research
+- 💼 Professional experience as Team Coordinator/Cyber Lead and Senior Sales Consultant at Optus
+- 🚀 Always learning and exploring cutting-edge security technologies
+- 🏆 Achieved perfect security scores in penetration testing assessments
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Swift, Python, JavaScript, Java, SQL
+### **Programming & Development**
+- **Languages:** Java, Swift, Python, SQL, PHP
 - **Frameworks:** SwiftUI, UIKit, React, Node.js
-- **Cybersecurity:** Network Security, Penetration Testing, Security Auditing, Risk Management
-- **Tools:** Xcode, Git, Docker, Wireshark, Burp Suite, AWS
-- **Databases:** MySQL, MongoDB, Firebase
+- **Databases:** MySQL, MongoDB, Firebase, phpMyAdmin
 
-## 🔭 Recent Projects
+### **Cybersecurity & Penetration Testing**
+- **Security Testing:** Penetration Testing, Vulnerability Assessment, Security Auditing
+- **Tools:** Metasploit, Burp Suite, Wireshark, Nmap, John the Ripper, Nikto
+- **Specialisations:** Web Application Security, Network Security, Password Cracking
+- **Methodologies:** OWASP Top 10, CVE Analysis, Risk Management
 
-### iOS Weather App
-A sleek, modern weather application built with SwiftUI that provides real-time weather information.
+### **Cloud & Infrastructure**
+- **Platforms:** AWS (CloudFront CDN), VirtualBox/VMware
+- **DevOps:** Git, Docker, CI/CD, Infrastructure Security
+- **Operating Systems:** Kali Linux, Ubuntu, Windows, macOS
+
+## 🔭 Featured Projects
+
+### 🛡️ Penetration Testing Home Lab
+**A comprehensive vulnerability assessment of a WordPress installation in a controlled environment**
+
+[![Security](https://img.shields.io/badge/Security-Penetration%20Testing-red)](https://github.com/domqi11/penetration-testing-homelab)
+[![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-blue)](https://www.kali.org/)
+
+- **Target**: VulnHub Basic Pentesting 1 VM
+- **Scope**: Complete ethical hacking assessment with 3 critical vulnerabilities exploited
+- **Tools**: Metasploit, John the Ripper, Nikto, Nmap
+- **Impact**: Achieved full system compromise through attack chain exploitation
+- **Documentation**: Professional penetration testing report with video demonstrations
+
+[🔗 View Project](https://github.com/domqi11/penetration-testing-homelab)
+
+### 📱 iOS Weather App
+**A sleek, modern weather application built with SwiftUI**
 
 ![Weather App](https://github.com/domqi11/WeatherApp/raw/main/MyWeather/Assets.xcassets/screenshot/WEATHER-APP.png)
 
-## 🌱 I'm currently learning ...
-- Using PortSwigger and Burpe Suite to learn more of peneration testing
-- Cloud Security Architecture
-- DevSecOps Practices
+- **Technologies**: SwiftUI, OpenWeatherMap API, Core Location
+- **Features**: Real-time weather data, geolocation services, modern UI design
+- **Architecture**: MVVM design pattern, secure API key management
 
-## 📫 How to reach me: ...
-- 📱 Phone: +61 428 796 872
-- 📧 Email: domqi1111@gmail.com
-- 🔗 LinkedIn: [Dominic Qi](https://www.linkedin.com/in/dominic-qi-980986192/)
+[🔗 View Project](https://github.com/domqi11/WeatherApp)
 
-## 😄 Pronouns: ...
-- He/Him
+### 🔐 Web Security Research Portfolio
+**Systematic exploitation and documentation of web application vulnerabilities**
 
-## ⚡ Fun fact: ...
-- I ranked as a top-performing sales consultant at Optus while pursuing my degree in Cybersecurity!
+- **Platform**: PortSwigger Web Security Academy
+- **Scope**: 8+ critical vulnerability demonstrations with custom payloads
+- **Focus**: SQL Injection, XSS, CSRF, Authentication Bypass
+- **Tools**: Burp Suite Professional, custom exploitation scripts
+
+[🔗 View Portfolio](https://github.com/domqi11/portswigger-web-security-report)
+
+
+## 🌱 Currently Learning & Researching
+
+- **Advanced Penetration Testing**: OSCP preparation and advanced exploitation techniques
+- **Cloud Security Architecture**: AWS security implementations and DevSecOps
+- **Threat Intelligence**: Malware analysis and incident response procedures
+- **Bug Bounty Hunting**: Responsible disclosure and vulnerability research
+
+## 🎯 Current Focus Areas
+
+- 🔍 **Vulnerability Research**: Discovering and documenting security flaws in web applications
+- 🏗️ **Lab Development**: Building advanced penetration testing environments
+- 📚 **Knowledge Sharing**: Creating educational content for cybersecurity community
+- 🎓 **Certification Prep**: Working towards CompTia Network+ and other industry certifications
+
+## 📫 How to reach me
+
+- 📱 **Phone**: +61 428 796 872
+- 📧 **Email**: domqi1111@gmail.com
+- 🔗 **LinkedIn**: [Dominic Qi](https://www.linkedin.com/in/dominic-qi-980986192/)
