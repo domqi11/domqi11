@@ -6,7 +6,7 @@
 
 ## 💻 About Me
 
-I'm a cybersecurity professional and technology enthusiast based in Melbourne, Australia. With a background in Information Technology and a specialization in Cybersecurity from Monash University, I'm passionate about ethical hacking, secure software development, and innovative tech solutions.
+I'm a technology enthusiast based in Melbourne, Australia. With a background in Information Technology and a specialization in Cybersecurity from Monash University, I'm passionate about ethical hacking, secure software development, and innovative tech solutions.
 
 - 🎓 Bachelor of Information Technology (Cybersecurity) graduate from Monash University
 - 🔐 Specialised in penetration testing, vulnerability assessment, and cybersecurity research
